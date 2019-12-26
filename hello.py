@@ -1,6 +1,6 @@
 print("Hello Python!")
 
 def add():
-    """A dev"""
+    """A and B dev"""
     c = a + b
     return c
